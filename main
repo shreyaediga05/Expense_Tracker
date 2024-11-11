@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 144a6daacfb2fa277473b04c6c113f2b04377db9 ki5han-dev <kishan.edimadakala@gmail.com> 1731335534 +0530	clone: from https://github.com/Ki5han-dev/Expense-Tracker.git
+144a6daacfb2fa277473b04c6c113f2b04377db9 4fa3d6f6e103d02104086739506adac75f59db69 ki5han-dev <kishan.edimadakala@gmail.com> 1731336504 +0530	commit: transition -> transaction
+4fa3d6f6e103d02104086739506adac75f59db69 b7180e5bbade613ba93d7a900e351f9fa96ba709 ki5han-dev <kishan.edimadakala@gmail.com> 1731340322 +0530	commit: added a bar chart to visualize expenses
+b7180e5bbade613ba93d7a900e351f9fa96ba709 f8f59ec1abeb804a37a6c77f5a58d6a34113d3bb ki5han-dev <kishan.edimadakala@gmail.com> 1731340564 +0530	commit: added all the deliverables in the readme.md
